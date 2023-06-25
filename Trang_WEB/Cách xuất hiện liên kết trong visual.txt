@@ -1,0 +1,5 @@
+B1: Nhấn dấu 3 chấm bên phải màn hình.
+B2: Chọn show opened editor.
+B3: Rỏ ">simple"
+B4: bấm http:localhost//"số host".
+B5: Enter.
